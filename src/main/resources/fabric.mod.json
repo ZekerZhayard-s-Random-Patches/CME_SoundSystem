@@ -1,0 +1,17 @@
+{
+    "schemaVersion": 1,
+    "id": "cme_soundsystem",
+    "version": "${version}",
+    "name": "CME_SoundSystem",
+    "description": "",
+    "authors": [
+        "ZekerZhayard"
+    ],
+    "contact": {},
+    "license": "All-Rights-Reserved",
+    "environment": "*",
+    "entrypoints": {},
+    "mixins": [
+        "cme_soundsystem.mixins.json"
+    ]
+}
